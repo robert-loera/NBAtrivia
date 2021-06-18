@@ -1,6 +1,13 @@
-# NBAtrivia
-This project tests the user on knowledge of NBA teams, active players, and inactive players.
-The data used is from the nba_api API and offers the user a large amount of possible questions
+# NBA Trivia
 
-# How to run
-packages needed: nba_api, and requests
+NBA Trivia is a python program that allows the user to be asked general questions over every player and team to ever be in the NBA.
+
+## Installation
+
+Download nba_api package and requests package
+
+```bash
+pip install nba_api
+pip install requests
+```
+
